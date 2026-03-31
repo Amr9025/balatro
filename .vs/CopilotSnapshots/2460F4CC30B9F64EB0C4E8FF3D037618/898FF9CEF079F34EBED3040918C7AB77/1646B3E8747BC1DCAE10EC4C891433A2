@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace KlasUitwerking
+{
+    internal class WildCard : ICard
+    {
+        public string MakeAsString()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void PrintMe()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool SatisfiesSuit(Suit suit)
+        {
+            return true;
+        }
+    }
+}

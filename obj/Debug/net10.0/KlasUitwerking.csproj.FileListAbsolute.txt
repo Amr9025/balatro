@@ -1,0 +1,14 @@
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\bin\Debug\net10.0\KlasUitwerking.exe
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\bin\Debug\net10.0\KlasUitwerking.deps.json
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\bin\Debug\net10.0\KlasUitwerking.runtimeconfig.json
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\bin\Debug\net10.0\KlasUitwerking.dll
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\bin\Debug\net10.0\KlasUitwerking.pdb
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\obj\Debug\net10.0\KlasUitwerking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\obj\Debug\net10.0\KlasUitwerking.AssemblyInfoInputs.cache
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\obj\Debug\net10.0\KlasUitwerking.AssemblyInfo.cs
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\obj\Debug\net10.0\KlasUitwerking.csproj.CoreCompileInputs.cache
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\obj\Debug\net10.0\KlasUitwerking.dll
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\obj\Debug\net10.0\refint\KlasUitwerking.dll
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\obj\Debug\net10.0\KlasUitwerking.pdb
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\obj\Debug\net10.0\KlasUitwerking.genruntimeconfig.cache
+C:\Users\amrok\school\BalatroCloneVoorbeeld---Live-klas-uitwerking-main\KlasUitwerking\obj\Debug\net10.0\ref\KlasUitwerking.dll
